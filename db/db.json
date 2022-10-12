@@ -1,13 +1,23 @@
 {
-    "notes": [
-      {
-        "title": "Test Title",
-        "text": "Test text"
-      },
-      {
-        "title": "Complete Challenge 11",
-        "text": "Finish setting up servers and endpoints",
-        "id": "77d4bdcc-f9d9-4f38-aa78-3e9414f34348"
-      }
-    ]
-  }
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "Complete Challenge 11",
+      "text": "Finish setting up servers and endpoints",
+      "id": "77d4bdcc-f9d9-4f38-aa78-3e9414f34348"
+    },
+    {
+      "title": "Start Laundry",
+      "text": "laundry day",
+      "id": "fb23a48d-1b31-4c98-b689-e2c683e2645e"
+    },
+    {
+      "title": "Ride a bike",
+      "text": "yeah right, lmao",
+      "id": "6040fc1d-ac7e-4eb9-86ff-d9b2b371d6d8"
+    }
+  ]
+}
