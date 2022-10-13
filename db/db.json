@@ -1,23 +1,29 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
       "title": "Complete Challenge 11",
       "text": "Finish setting up servers and endpoints",
       "id": "77d4bdcc-f9d9-4f38-aa78-3e9414f34348"
     },
     {
-      "title": "Start Laundry",
-      "text": "laundry day",
-      "id": "fb23a48d-1b31-4c98-b689-e2c683e2645e"
+      "title": "New Note",
+      "text": "testing",
+      "id": "a80b8434-3676-4079-b4a3-ba1da0e5e6fc"
     },
     {
-      "title": "Ride a bike",
-      "text": "yeah right, lmao",
-      "id": "6040fc1d-ac7e-4eb9-86ff-d9b2b371d6d8"
+      "title": "Code Better",
+      "text": "get better at coding",
+      "id": "c3f05b2a-2b00-4ff8-8d53-5c4325729eab"
+    },
+    {
+      "title": "Do Laundry",
+      "text": "wash clothes",
+      "id": "c6ebabb7-0c95-43c5-8e80-8596c024f6db"
+    },
+    {
+      "title": "Watch Shows",
+      "text": "catch up on abbott elementary",
+      "id": "536155c7-20b1-48a7-a1d6-6fc119f09178"
     }
   ]
 }

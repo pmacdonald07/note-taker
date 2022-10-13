@@ -1,5 +1,7 @@
 # Note-taker
 
+Deployed Application Link: https://fierce-sierra-21623.herokuapp.com/
+
 ## Description
 
 This project allows a user to create notes on a webpage and save them to a server run with Express.js. The data for their notes is saved to a json file using fetch requests, api end points, and Express routes. The live application is hosted by Heroku.
@@ -34,8 +36,6 @@ Once these steps have been completed, a user just needs to type "npm start" into
 The application looks like this when deployed in the browser:
 
 <img src="imgs\deployed-application.png" width="1000"/>
-
-A video demonstration of how to use this project and what it outputs can be seen at the link below:
 
 ## License
 
